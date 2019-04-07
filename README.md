@@ -7,10 +7,10 @@ This is a Employee CRUD Operation app using Node.js, Express, MongoDB, Body-pars
 $ 1.0.0
 
 # Prerequisites:
-$ install mongodb , node.js and npm in your system.
+$ Install mongodb , node.js and npm in your system.
 
 # Start Mongod server on your system 
-$ To start mongodb server in ubuntu type below command and hit enter :
+$ To start mongod server in ubuntu type below command and hit enter :
 
 $ sudo service mongod start
 
