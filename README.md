@@ -11,9 +11,11 @@ $ install mongodb , node.js and npm in your system.
 
 # Start Mongod server on your system 
 $ To start mongodb server in ubuntu type below command and hit enter :
+
 $ sudo service mongod start
 
 $ To start mongodb server in windows type below command and hit enter:
+
 $ mongod
 
 # Usage
